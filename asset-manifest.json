@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-app-taniarascia/static/css/main.0e2dfa1d.css",
+    "main.js": "/react-app-taniarascia/static/js/main.c00607bb.js",
+    "index.html": "/react-app-taniarascia/index.html",
+    "main.0e2dfa1d.css.map": "/react-app-taniarascia/static/css/main.0e2dfa1d.css.map",
+    "main.c00607bb.js.map": "/react-app-taniarascia/static/js/main.c00607bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e2dfa1d.css",
+    "static/js/main.c00607bb.js"
+  ]
+}
